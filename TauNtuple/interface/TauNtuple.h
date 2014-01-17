@@ -4,9 +4,7 @@
 // Class:      TauNtuple
 // 
 /**\class TauNtuple TauNtuple.cc TauDataFormat/TauNtuple/src/TauNtuple.cc
-
  Description: [one line class summary]
-
  Implementation:
  [Notes on implementation]
  */

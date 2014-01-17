@@ -4525,4 +4525,3 @@ void TauNtuple::ClearEvent() {
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(TauNtuple);
-
